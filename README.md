@@ -57,3 +57,5 @@ Starred torvalds/linux
 - Invalid username → displays a not found message
 - API failure → displays the error and exits
 - No username provided → displays usage instructions
+
+## Project URL: https://github.com/raulciprian-tudor/Github-User-Activity
