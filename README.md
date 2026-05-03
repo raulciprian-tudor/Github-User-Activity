@@ -1,5 +1,7 @@
 # GitHub User Activity CLI
 
+Sample solution for the [github-user-activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](roadmap.sh)
+
 A command-line interface (CLI) tool that fetches and displays a GitHub user's recent activity in the terminal using the GitHub API.
 
 ## Features
@@ -58,4 +60,4 @@ Starred torvalds/linux
 - API failure → displays the error and exits
 - No username provided → displays usage instructions
 
-## Project URL: https://github.com/raulciprian-tudor/Github-User-Activity
+
