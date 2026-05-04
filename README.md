@@ -20,7 +20,7 @@ A command-line interface (CLI) tool that fetches and displays a GitHub user's re
 
 1. Clone the repository
    
-   git clone https://github.com/your-username/github-activity.git
+   git clone https://github.com/raulciprian-tudor/github-activity.git
    cd github-activity
 
 2. Install dependencies
